@@ -1,0 +1,20 @@
+.comment__quote {
+  font: normal 14px/24px Inter;
+  color: #fff;
+  margin: 0 0 12px 0;
+}
+
+@media (max-width: 1279px) {
+  .comment__quote {
+    margin: 0 0 16px 0;
+  }
+}
+
+@media (max-width: 1023px) {
+  .comment__quote {
+    max-width: 382px;
+    order: 3;
+    font: normal 16px/23px Inter;
+    margin: 0;
+  }
+}

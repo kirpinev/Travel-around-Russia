@@ -1,0 +1,13 @@
+.content-subtitle {
+  max-width: 640px;
+  font: normal 24px/35px Inter;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .content-subtitle {
+    font: normal 16px/23px Inter;
+  }
+}

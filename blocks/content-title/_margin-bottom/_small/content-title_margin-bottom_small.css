@@ -1,0 +1,9 @@
+.content-title_margin-bottom_small {
+  margin-bottom: 33px;
+}
+
+@media (max-width: 767px) {
+  .content-title_margin-bottom_small {
+    margin-bottom: 23px;
+  }
+}

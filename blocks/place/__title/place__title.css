@@ -1,0 +1,22 @@
+.place__title {
+  font: normal 900 72px/65px Inter;
+  color: #fff;
+  flex-basis: 460px;
+  margin: 0 0 0 0;
+  align-self: end;
+}
+
+@media (max-width: 1023px) {
+  .place__title {
+    font: normal 900 43px/46px Inter;
+  }
+}
+
+@media (max-width: 767px) {
+  .place__title {
+    font: normal 900 32px/35px Inter;
+    width: calc(100% - 32px);
+    margin: 0 auto 36px auto;
+    flex-basis: 0;
+  }
+}

@@ -1,0 +1,10 @@
+@import url("./_play/video__icon_play.css");
+@import url("./_margin/_kamchatka/video__icon_margin_kamchatka.css");
+@import url("./_margin/_observatory/video__icon_margin_observatory.css");
+
+.video__icon {
+  width: 41px;
+  height: 41px;
+
+  z-index: 1;
+}

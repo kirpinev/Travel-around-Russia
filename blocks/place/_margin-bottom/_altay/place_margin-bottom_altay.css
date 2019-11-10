@@ -1,0 +1,15 @@
+.place_margin-bottom_altay {
+  margin: 0 0 83px 0;
+}
+
+@media (max-width: 1023px) {
+  .place_margin-bottom_altay {
+    margin: 0 0 48px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .place_margin-bottom_altay {
+    margin: 0 0 55px 0;
+  }
+}

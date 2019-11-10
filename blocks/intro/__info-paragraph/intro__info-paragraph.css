@@ -1,0 +1,10 @@
+.intro__info-paragraph {
+  font: normal 13px/20px Inter;
+  color: #fff;
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .intro__info-paragraph {
+    font: normal 12px/19px Inter;
+  }
+}

@@ -1,0 +1,21 @@
+.video__title {
+  font: normal 900 36px/39px Inter;
+  width: 322px;
+  color: #fff;
+  margin: 0 0 10px 0;
+  z-index: 1;
+}
+
+@media (max-width: 1023px) {
+  .video__title {
+    font: normal 900 24px/26px Inter;
+    max-width: 292px;
+  }
+}
+
+@media (max-width: 374px) {
+  .video__title {
+    margin: 0 0 11px 0;
+    max-width: 252px;
+  }
+}

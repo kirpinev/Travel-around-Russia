@@ -1,0 +1,23 @@
+.footer__link {
+  font: normal 24px/41px Inter;
+  color: #fff;
+  margin: 0;
+  text-decoration: none;
+}
+
+.footer__link:hover {
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+@media (max-width: 1023px) {
+  .footer__link {
+    font: normal 16px/27px Inter;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer__link {
+    font: normal 24px/41px Inter;
+  }
+}

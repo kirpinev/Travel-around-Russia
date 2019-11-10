@@ -1,0 +1,41 @@
+@import url("./_hovered/cover__wrapper_hovered.css");
+
+.cover__wrapper {
+  max-width: 1184px;
+  min-height: 594px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  background-image: url(../../../images/train-station.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+@media (max-width: 1279px) {
+  .cover__wrapper {
+    max-width: 100%;
+    min-height: 562px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .cover__wrapper {
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 767px) {
+  .cover__wrapper {
+    min-height: 272px;
+  }
+}
+
+@media (max-width: 374px) {
+  .cover__wrapper {
+    min-height: 216px;
+  }
+}

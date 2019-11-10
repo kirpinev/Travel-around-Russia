@@ -1,0 +1,28 @@
+.place__paragraph {
+  font: normal 18px/30px Inter;
+  color: #fff;
+  margin: -4px 0 28px 0;
+}
+
+@media (max-width: 1023px) {
+  .place__paragraph {
+    font: normal 16px/27px Inter;
+    margin: -10px 0 35px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .place__paragraph {
+    margin: 20px 0 24px 0;
+  }
+
+  .place__paragraph:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 374px) {
+  .place__paragraph {
+    margin: 21px 0 24px 0;
+  }
+}

@@ -1,0 +1,14 @@
+@import url("./_hovered/cover__link_hovered.css");
+
+.cover__link {
+  color: #fff;
+  text-decoration: none;
+  z-index: 10;
+  text-align: center;
+}
+
+@media (max-width: 1279px) {
+  .cover__link {
+    max-width: 502px;
+  }
+}

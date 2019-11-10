@@ -1,0 +1,19 @@
+.intro__quote {
+  width: 683px;
+  margin: 0;
+  font: normal 14px/24px Inter;
+  color: #fff;
+}
+
+@media (max-width: 1023px) {
+  .intro__quote {
+    width: 100%;
+    font: normal 14px/24px Inter;
+  }
+}
+
+@media (max-width: 767px) {
+  .intro__quote {
+    font: normal 16px/169.43% Inter;
+  }
+}

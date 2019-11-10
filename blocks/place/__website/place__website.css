@@ -1,0 +1,17 @@
+.place__website {
+  flex-basis: 484px;
+  align-self: flex-end;
+  margin: 0 0 0 0;
+}
+
+@media (max-width: 1023px) {
+  .place__website {
+    margin: 0 0 5px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .place__website {
+    display: none;
+  }
+}

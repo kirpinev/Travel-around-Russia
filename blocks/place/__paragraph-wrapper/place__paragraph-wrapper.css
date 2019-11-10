@@ -1,0 +1,10 @@
+.place__paragraph-wrapper {
+  /* flex-basis: 484px; */
+}
+
+@media (max-width: 767px) {
+  .place__paragraph-wrapper {
+    width: calc(100% - 32px);
+    margin: 0 auto;
+  }
+}

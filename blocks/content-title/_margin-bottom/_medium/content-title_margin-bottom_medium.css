@@ -1,0 +1,21 @@
+.content-title_margin-bottom_medium {
+  margin-bottom: 43px;
+}
+
+@media (max-width: 1279px) {
+  .content-title_margin-bottom_medium {
+    margin-bottom: 35px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .content-title_margin-bottom_medium {
+    margin-bottom: 32px;
+  }
+}
+
+@media (max-width: 767px) {
+  .content-title_margin-bottom_medium {
+    margin: 0 0 23px 0;
+  }
+}

@@ -1,0 +1,7 @@
+@import url("./_hovered/place__url_hovered.css");
+
+.place__url {
+  font: normal 18px/30px Inter;
+  color: #fff;
+  text-underline-position: under;
+}

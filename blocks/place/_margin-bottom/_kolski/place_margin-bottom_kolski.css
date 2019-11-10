@@ -1,0 +1,27 @@
+.place_margin-bottom_kolski {
+  margin: 0 0 83px 0;
+}
+
+@media (max-width: 1279px) {
+  .place_margin-bottom_kolski {
+    margin: 0 0 64px 0;
+  }
+}
+
+@media (max-width: 1023px) {
+  .place_margin-bottom_kolski {
+    margin: 0 0 50px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .place_margin-bottom_kolski {
+    margin: 0 0 66px 0;
+  }
+}
+
+@media (max-width: 374px) {
+  .place_margin-bottom_kolski {
+    margin: 0 0 54px 0;
+  }
+}

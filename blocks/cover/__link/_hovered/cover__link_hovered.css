@@ -1,0 +1,4 @@
+.cover__link_hovered:hover {
+  text-decoration: underline;
+  text-underline-position: under;
+}

@@ -1,0 +1,34 @@
+.cover__subtitle {
+  max-width: 382px;
+  font: normal 18px/26px Inter;
+  text-align: center;
+  color: #fff;
+  margin: 119px 0 41px 0;
+  z-index: 1;
+}
+
+@media (max-width: 1279px) {
+  .cover__subtitle {
+    margin: 73px 0 34px -20px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .cover__subtitle {
+    margin: 54px 0 41px -4px;
+  }
+}
+
+@media (max-width: 767px) {
+  .cover__subtitle {
+    font: normal normal 14px/18px Inter;
+    width: calc(100% - 32px);
+    margin: 14px 0 28px 0;
+  }
+}
+
+@media (max-width: 374px) {
+  .cover__subtitle {
+    margin: 6px 0 21px 0;
+  }
+}

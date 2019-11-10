@@ -1,0 +1,9 @@
+.content-title_line-height_small {
+  line-height: 76px;
+}
+
+@media (max-width: 1279px) {
+  .content-title_line-height_small {
+    line-height: 69px;
+  }
+}

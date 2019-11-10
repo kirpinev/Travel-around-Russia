@@ -1,0 +1,44 @@
+@import url("./__title/place__title.css");
+@import url("./__website/place__website.css");
+@import url("./__url-heading/place__url-heading.css");
+@import url("./__url/place__url.css");
+@import url("./__image/place__image.css");
+@import url("./__paragraph/place__paragraph.css");
+@import url("./__paragraph-wrapper/place__paragraph-wrapper.css");
+@import url("./_margin/_bottom/place_margin_bottom.css");
+@import url("./_margin-bottom/_altay/place_margin-bottom_altay.css");
+@import url("./_margin-bottom/_baikal/place_margin-bottom_baikal.css");
+@import url("./_margin-bottom/_karel/place_margin-bottom_karel.css");
+@import url("./_margin-bottom/_kolski/place_margin-bottom_kolski.css");
+@import url("./_margin-bottom/_kosa/place_margin-bottom_kosa.css");
+
+.place {
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  grid-column-gap: 40px;
+  grid-row-gap: 54px;
+  max-width: 984px;
+}
+
+@media (max-width: 1279px) {
+  .place {
+    grid-template-columns: 440px 1fr;
+    grid-column-gap: 31px;
+    grid-row-gap: 48px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .place {
+    grid-template-columns: 340px 1fr;
+    grid-column-gap: 27px;
+    grid-row-gap: 45px;
+  }
+}
+
+@media (max-width: 767px) {
+  .place {
+    display: flex;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,41 @@
+@import url("./_line-height/_small/content-title_line-height_small.css");
+@import url("./_line-height/_medium/content-title_line-height_medium.css");
+@import url("./_margin-bottom/_small/content-title_margin-bottom_small.css");
+@import url("./_margin-bottom/_medium/content-title_margin-bottom_medium.css");
+
+.content-title {
+  max-width: 800px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+  /* margin: 108px 0 33px 0; */
+  margin-top: 108px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+@media (max-width: 1023px) {
+  .content-title {
+    font-size: 43px;
+    line-height: 46px;
+    max-width: 554px;
+    margin-top: 78px;
+  }
+}
+
+@media (max-width: 767px) {
+  .content-title {
+    font-size: 32px;
+    line-height: 35px;
+    margin-top: 72px;
+  }
+}
+
+@media (max-width: 374px) {
+  .content-title {
+    margin-top: 68px;
+  }
+}
