@@ -13,6 +13,8 @@ export const Places: FC = (): JSX.Element => (
           <a
             href="http://park-kosa.ru/"
             className="place__url place__url_hovered"
+            target="_blank"
+            rel="noopener"
           >
             park-kosa.ru
           </a>
@@ -47,7 +49,12 @@ export const Places: FC = (): JSX.Element => (
           <p className="place__url-heading" lang="en">
             URL
           </p>
-          <a href="#" target="_blank" className="place__url place__url_hovered">
+          <a
+            href="#"
+            className="place__url place__url_hovered"
+            target="_blank"
+            rel="noopener"
+          >
             National Geographic
           </a>
         </div>
@@ -81,7 +88,12 @@ export const Places: FC = (): JSX.Element => (
           <p className="place__url-heading" lang="en">
             URL
           </p>
-          <a href="#" target="_blank" className="place__url place__url_hovered">
+          <a
+            href="#"
+            target="_blank"
+            className="place__url place__url_hovered"
+            rel="noopener"
+          >
             Facebook
           </a>
         </div>
@@ -118,11 +130,11 @@ export const Places: FC = (): JSX.Element => (
             href="https://vk.com/baikalmile"
             target="_blank"
             className="place__url place__url_hovered"
+            rel="noopener"
           >
             https://vk.com/baikalmile
           </a>
         </div>
-
         <Image
           src="/images/baikal-ice.jpg"
           alt="Замерзшее озеро Байкал"
@@ -155,6 +167,7 @@ export const Places: FC = (): JSX.Element => (
             href="http://vodlozero.ru/"
             target="_blank"
             className="place__url place__url_hovered"
+            rel="noopener"
           >
             http://vodlozero.ru/
           </a>

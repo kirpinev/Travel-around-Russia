@@ -5,9 +5,7 @@ import { Logo } from "Icons";
 export const Header: FC = (): JSX.Element => (
   <header className="header">
     <div className="header__wrapper">
-      <a href="#" className="header__logo-link">
-        <Logo />
-      </a>
+      <Logo />
       <ul className="header__langs">
         <li>
           <a href="#" lang="en" className="header__lang header__lang_active">
