@@ -5,6 +5,7 @@
     url("/fonts/Inter-Black.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -14,6 +15,7 @@
     url("/fonts/Inter-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -23,6 +25,7 @@
     url("/fonts/Inter-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -32,4 +35,5 @@
     url("/fonts/Inter-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
