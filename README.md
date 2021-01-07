@@ -4,7 +4,9 @@
 
 # В работе использовались:
 
-- HTML
+- Next.js
+- React.js
+- TypeScript
 - CSS(Flexbox + Grid)
 - БЭМ
 
@@ -20,4 +22,3 @@
 # Демо
 
 http://travel-around-rus.surge.sh/
- 

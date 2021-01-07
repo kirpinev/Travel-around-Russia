@@ -1,8 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01621c8c-ab2a-4248-a1fc-48b3465dbf48" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="01621c8c-ab2a-4248-a1fc-48b3465dbf48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/comment/__author/comment__author.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/comment/__image/comment__image.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/comment/__quote/comment__quote.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/comment/comment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/comments/__container/comments__container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/comments/__wrapper/comments__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/comments/comments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content-subtitle/content-subtitle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content-title/_line-height/_medium/content-title_line-height_medium.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content-title/_line-height/_small/content-title_line-height_small.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content-title/_margin-bottom/_medium/content-title_margin-bottom_medium.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content-title/_margin-bottom/_small/content-title_margin-bottom_small.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content-title/content-title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__link/_hovered/cover__link_hovered.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__wrapper/_hovered/cover__wrapper_hovered.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__wrapper/cover__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__nav/footer__nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__wrapper/footer__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang/_active/header__lang_active.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang/header__lang.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__langs/header__langs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__logo-link/header__logo-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__wrapper/header__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__author-container/intro__author-container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__content-row/intro__content-row.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__info-container/intro__info-container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__info-paragraph/intro__info-paragraph.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__quote-author/intro__quote-author.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__quote-date/intro__quote-date.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__quote/intro__quote.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__span-accent/intro__span-accent.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__subtitle/intro__subtitle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__wrapper/intro__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/intro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__wrapper/lead__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/lead.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/__wrapper/photo-grid__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__image/place__image.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph-wrapper/place__paragraph-wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__title/place__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__url/_hovered/place__url_hovered.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__url/place__url.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__website/place__website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/_margin-bottom/_altay/place_margin-bottom_altay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/_margin-bottom/_baikal/place_margin-bottom_baikal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/_margin-bottom/_karel/place_margin-bottom_karel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/_margin-bottom/_kolski/place_margin-bottom_kolski.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/_margin-bottom/_kosa/place_margin-bottom_kosa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/_margin/_bottom/place_margin_bottom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/place.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/__wrapper/places__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__container/video__container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__duration/video__duration.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__icon/_margin/_kamchatka/video__icon_margin_kamchatka.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__icon/_margin/_observatory/video__icon_margin_observatory.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__icon/_play/video__icon_play.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__icon/video__icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__item/_hovered/video__item_hovered.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__item/_theme/_kamchatka/video__item_theme_kamchatka.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__item/_theme/_observatory/video__item_theme_observatory.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__item/video__item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__link/video__link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__subtitle/video__subtitle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__title/video__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__wrapper/video__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Black.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/inter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/baikal-ice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/baikal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/baikal2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/breakwater.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/curonian-spit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/elbrus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ergaki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/forest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ivan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kamchatka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kamchatka2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kamchatka3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kola-peninsula.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lead-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mountain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/observatory.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sergey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sochi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/train-station.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/train.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/viktor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vodlozero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/normalize.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +146,10 @@
   </component>
   <component name="ProjectId" id="1TQiPERQiXscUFy6Gy8iXoAovsn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -24,25 +161,29 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/components" />
+      <recent name="$PROJECT_DIR$/uikit" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/oldVersion" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/public/fonts" />
+      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,11 +198,12 @@
       <workItem from="1569770893931" duration="151000" />
       <workItem from="1572097357494" duration="186000" />
       <workItem from="1573398775993" duration="191000" />
+      <workItem from="1609928440976" duration="18787000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -73,5 +215,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
