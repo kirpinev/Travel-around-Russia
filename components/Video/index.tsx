@@ -15,6 +15,7 @@ export const Video: FC = (): JSX.Element => (
           href="https://vimeo.com/81106671"
           target="_blank"
           className="video__link"
+          rel="noopener"
         >
           <div className="video__item video__item_hovered video__item_theme_kamchatka">
             <div className="video__icon video__icon_play video__icon_margin_kamchatka" />
@@ -31,6 +32,7 @@ export const Video: FC = (): JSX.Element => (
           href="https://vimeo.com/290675450"
           target="_blank"
           className="video__link"
+          rel="noopener"
         >
           <div className="video__item video__item_hovered video__item_theme_observaroty">
             <div className="video__icon video__icon_play video__icon_margin_observatory" />
