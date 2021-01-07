@@ -10,6 +10,7 @@ import {
   Video,
   Comments,
   Footer,
+  Cover,
 } from "components";
 
 const App: FC = (): JSX.Element => (
@@ -21,6 +22,7 @@ const App: FC = (): JSX.Element => (
     <Places />
     <Video />
     <Comments />
+    <Cover />
     <Footer />
   </Page>
 );
