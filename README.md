@@ -21,4 +21,4 @@
 
 # Демо
 
-http://travel-around-rus.surge.sh/
+https://travel-around-russia-dun.vercel.app/
