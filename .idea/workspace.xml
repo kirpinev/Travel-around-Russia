@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="01621c8c-ab2a-4248-a1fc-48b3465dbf48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Places/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Places/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__wrapper/cover__wrapper.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__wrapper/cover__wrapper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__item/_theme/_kamchatka/video__item_theme_kamchatka.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__item/_theme/_kamchatka/video__item_theme_kamchatka.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__item/_theme/_observatory/video__item_theme_observatory.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__item/_theme/_observatory/video__item_theme_observatory.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/kamchatka3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/train-station.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,11 +42,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/components" />
-      <recent name="$PROJECT_DIR$/uikit" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/oldVersion" />
@@ -69,7 +72,7 @@
       <workItem from="1572097357494" duration="186000" />
       <workItem from="1573398775993" duration="191000" />
       <workItem from="1609928440976" duration="19700000" />
-      <workItem from="1610022824617" duration="367000" />
+      <workItem from="1610022824617" duration="1788000" />
     </task>
     <servers />
   </component>
