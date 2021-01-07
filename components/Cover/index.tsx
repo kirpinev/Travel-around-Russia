@@ -7,6 +7,7 @@ export const Cover: FC = (): JSX.Element => (
         href="https://stampsy.com/na-elektrichkakh-do-baikala"
         target="_blank"
         className="cover__link cover__link_hovered"
+        rel="noopener"
       >
         <h2 className="cover__title">До Байкала «на&nbsp;собаках»</h2>
       </a>
